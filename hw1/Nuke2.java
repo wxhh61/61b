@@ -6,3 +6,5 @@ class Nuke2 {
         System.out.println(inputLine.substring(0,1) + inputLine.substring(2));
     }
 }
+
+ds
